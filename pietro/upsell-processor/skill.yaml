@@ -1,0 +1,2 @@
+name: upsell-processor
+description: "Processes signed upsell contracts — closes upsell Opportunities in Salesforce, updates Renewal ARR, and logs changes to Google Sheets and Slack."
